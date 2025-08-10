@@ -1,7 +1,7 @@
 // pages/Accueil.jsx
 import React from 'react';
 import { Link } from 'react-router-dom';
-import heroImage from '../assets/img3.jfif'; // Image principale
+import heroImage from '../assets/img2.jpg'; // Image principale
 import secondaryImage from '../assets/img5.jpg'; // Image secondaire
 import 'animate.css';
 
